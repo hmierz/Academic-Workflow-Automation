@@ -1,3 +1,6 @@
+:: run_clicker.bat
 @echo off
-python "C:\Users\hmierzejewski\Downloads\final_clicker.py"
+setlocal
+cd /d "%~dp0"
+python transcript_clicker.py
 pause
