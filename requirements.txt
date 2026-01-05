@@ -1,0 +1,28 @@
+pyautogui>=0.9.53
+pillow>=9.0.0
+```
+
+---
+
+### `.gitignore`
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal config (if you add user-specific coordinate configs)
+config.json
