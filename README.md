@@ -53,7 +53,7 @@ cd Academic-Workflow-Automation
 pip install pyautogui pillow
 
 # Run script
-python transcript_clicker.py
+python transcript_automation.py
 ```
 
 **Windows users:** Double-click `run_clicker.bat` for quick execution.
@@ -93,7 +93,7 @@ SLEEP_AFTER = {
 
 1. Copy student ID to clipboard
 2. Navigate to starting screen in SLU system
-3. Run script: `python transcript_clicker.py`
+3. Run script: `python transcript_automation.py`
 4. Script executes 9-step sequence automatically
 5. Transcript opens ready for review
 
