@@ -56,7 +56,7 @@ pip install pyautogui pillow
 python transcript_automation.py
 ```
 
-**Windows users:** Double-click `run_clicker.bat` for quick execution.
+**Windows users:** Double-click `run_automation.bat` for quick execution.
 
 ## Configuration
 
